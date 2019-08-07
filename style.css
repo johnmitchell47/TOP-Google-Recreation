@@ -1,0 +1,78 @@
+.headerapps {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  .header1 {
+    float: left;
+  }
+  
+  .header2 {
+    float: right;
+  }
+  
+  .header a {
+    color: #757575;
+    padding: 5px;
+    font-size: 9pt;
+  }
+  
+  a {
+    font-family: sans-serif;
+    text-decoration: none;
+  }
+  
+  .logobuttonfooter {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 65px;
+  }
+  
+  img {
+    width: 300px;
+  }
+  
+  input {
+    width: 400px;
+  }
+  
+  .buttons {
+    margin-bottom: 60px;
+  }
+  
+  button {
+    background-color: #f2f2f2;
+    border: none;
+    padding: 12px;
+    margin: 12px;
+    color: #757575;
+    font-size: 9pt;
+    border-radius: 2px;
+  }
+  
+  .footer a{
+    color: #757575;
+    padding: 5px;
+    font-size: 9pt;
+  }
+  
+  .footer {
+    background: #f2f2f2;
+    padding: 5px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    left: -5px;
+  }
+  
+  .footer1 {
+    float: left;
+  }
+  
+  .footer2 {
+    float: right;
+  }
